@@ -1,6 +1,6 @@
 # Huffman Coding vs Random Variable-Length Prefix Coding
 
-Author: **CH Navya**
+Author: ** Navya chinta**
 
 This project implements Huffman coding and compares its efficiency with a randomly generated variable-length prefix coding scheme. It encodes and decodes messages read from a file and evaluates the compression performance of both methods.
 

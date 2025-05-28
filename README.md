@@ -16,8 +16,8 @@ This project implements Huffman coding and compares its efficiency with a random
 
 ## Files
 
-- `main.cpp` – Contains the full implementation of the Huffman and random coding comparison
-- `2203306.txt` – Input text file (you must provide this)
+- [`Huffman_encoding.cpp`](https://github.com/Navyachinta/Huffman-Encoding-/blob/main/Huffman_encoding.cpp) – Main implementation file
+- [`Huffman_input.txt`](https://github.com/Navyachinta/Huffman-Encoding-/blob/main/Huffman_input.txt) – Input text file
 
 ## How It Works
 
